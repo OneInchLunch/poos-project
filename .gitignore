@@ -1,0 +1,8 @@
+bin/
+darknet/
+include/
+lib/
+lib64
+__pycache__
+pyvenv.cfg
+yolov3.weights
