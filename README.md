@@ -41,4 +41,5 @@ TOLO divides an image into a grid and for each grid cell predicts bounding boxes
 and confidence scores for those boxes. You can read more about it [here](https://pjreddie.com/darknet/yolo/)
 
 The image of traffic was taken from: [here](https://www.istockphoto.com/photo/cars-in-rush-hour-with-traffic-at-dawn-gm155287967-19095156)
+
 The video of traffic was taken from: [here](https://pixabay.com/videos/traffic-car-highway-street-27260/)
